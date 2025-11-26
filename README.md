@@ -1,11 +1,11 @@
+# Endeavour Education & Migration Consultancy Website
 
-  # Consultancy Website Design
+This is the official website for Endeavour Education & Migration consultancy services.
 
-  This is a code bundle for Consultancy Website Design. The original project is available at https://www.figma.com/design/yBAZeti5XNn02C9nlnso0u/Consultancy-Website-Design.
+The original design project is available at https://www.figma.com/design/yBAZeti5XNn02C9nlnso0u/Consultancy-Website-Design.
 
-  ## Running the code
+## Running the code
 
-  Run `npm i` to install the dependencies.
+Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
